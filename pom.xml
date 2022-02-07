@@ -125,6 +125,12 @@
 			</plugin>
 		</plugins>
 	</build>
+	
+	<pluginGroups>
+          ....
+          <pluginGroup>org.apache.tomcat.maven</pluginGroup>
+          ....
+        </pluginGroups>
 
 	
 </project>
